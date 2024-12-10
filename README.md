@@ -36,6 +36,6 @@ The data used in this study were sourced from:
 - Explore additional variables, such as race, housing prices, and health data, for a more comprehensive analysis.
 
 ## Repository Contents
-- **`data/`**: Processed data and analysis-ready files.
-- **`notebooks/`**: Jupyter notebooks for data preprocessing, EDA, and modeling.
+- **`DATA/`**: Processed data and analysis-ready files.
+- **`CODE/`**: Jupyter notebooks for data preprocessing, EDA, and modeling.
 
